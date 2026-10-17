@@ -1,14 +1,13 @@
-[README (2).md](https://github.com/user-attachments/files/33589866/README.2.md)
-
+[README (1).md](https://github.com/user-attachments/files/33590063/README.1.md)
 # 🏥 Base de datos relacional para una clínica: compras de insumos médicos (SQL Server)
 
-**En una línea:** modelé en SQL Server la cadena de compras de insumos de una clínica (personal médico, inventario y proveedores) y escribí 15 consultas T-SQL para responder preguntas de gasto, dependencia de proveedores y eficiencia de compra.
+**En una línea:** modelamos en SQL Server la cadena de compras de insumos de una clínica (personal médico, inventario y proveedores) y escribimos 15 consultas T-SQL para responder preguntas de gasto, dependencia de proveedores y eficiencia de compra.
 
 **Stack:** Microsoft SQL Server (T-SQL) · Bizagi Modeler (DER) · SSMS
 
-> ⚠️ **Datos ficticios:** los registros son datos de ejemplo creados para este proyecto académico (UNALM). Los nombres de laboratorios y proveedores se usan solo como ilustración; no son operaciones reales.
+> ⚠️ **Datos ficticios:** los registros son datos de ejemplo creados para este proyecto del curso SQL Server for Analytics (UNALM). Los nombres de laboratorios y proveedores se usan solo como ilustración; no son operaciones reales.
 
-> 👥 **Proyecto grupal (Grupo 2).** Mi aporte: *[escribe aquí tu rol real, por ejemplo: diseño del modelo y redacción de las consultas T-SQL]*.
+> 👥 **Proyecto grupal (Grupo 2)** desarrollado en el curso **SQL Server for Analytics** (UNALM).
 
 ## 🎯 Problema
 Una clínica compra insumos a decenas de proveedores, para distintos servicios y con distintas formas de pago. Sin un modelo ordenado, preguntas básicas son difíciles de contestar: ¿cuánto se gasta en urgencias?, ¿de qué proveedores dependemos?, ¿cuánto de lo comprado está pagado o pendiente?
@@ -23,7 +22,8 @@ Una clínica compra insumos a decenas de proveedores, para distintos servicios y
 
 **10 tablas en 3 esquemas, ~1,630 registros**, con llaves primarias y foráneas en todas las relaciones y una columna calculada (`Total_USD = Cantidad × Precio_Unitario`) en el detalle de compra.
 
-![Diagrama entidad-relación](Media/DER.png)
+[![Diagrama entidad-relación](Media/DER.png)](Media/DER.png)
+*Haz clic en el diagrama para verlo en tamaño completo.*
 
 ## 🔎 Resultados de las consultas
 
