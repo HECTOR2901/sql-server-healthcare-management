@@ -7,7 +7,7 @@
 
 > ⚠️ **Datos ficticios:** los registros son datos de ejemplo creados para este proyecto del curso SQL Server for Analytics (UNALM). Los nombres de laboratorios y proveedores se usan solo como ilustración; no son operaciones reales.
 
-> 👥 **Proyecto grupal (Grupo 2)** desarrollado en el curso **SQL Server for Analytics** (UNALM).
+> 👥 **Proyecto grupal (Grupo 2)** desarrollado en el curso **SQL Server for Analytics** (WE Educación Ejecutiva).
 
 ## 🎯 Problema
 Una clínica compra insumos a decenas de proveedores, para distintos servicios y con distintas formas de pago. Sin un modelo ordenado, preguntas básicas son difíciles de contestar: ¿cuánto se gasta en urgencias?, ¿de qué proveedores dependemos?, ¿cuánto de lo comprado está pagado o pendiente?
