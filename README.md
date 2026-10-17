@@ -5,7 +5,7 @@
 
 **Stack:** Microsoft SQL Server (T-SQL) · Bizagi Modeler (DER) · SSMS
 
-> ⚠️ **Datos ficticios:** los registros son datos de ejemplo creados para este proyecto del curso SQL Server for Analytics (UNALM). Los nombres de laboratorios y proveedores se usan solo como ilustración; no son operaciones reales.
+> ⚠️ **Datos ficticios:** los registros son datos de ejemplo creados para este proyecto del curso SQL Server for Analytics (WE Educación Ejecutiva). Los nombres de laboratorios y proveedores se usan solo como ilustración; no son operaciones reales. 
 
 > 👥 **Proyecto grupal (Grupo 2)** desarrollado en el curso **SQL Server for Analytics** (WE Educación Ejecutiva).
 
