@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/33590063/README.1.md)
 # 🏥 Base de datos relacional para una clínica: compras de insumos médicos (SQL Server)
 
 **En una línea:** modelamos en SQL Server la cadena de compras de insumos de una clínica (personal médico, inventario y proveedores) y escribimos 15 consultas T-SQL para responder preguntas de gasto, dependencia de proveedores y eficiencia de compra.
